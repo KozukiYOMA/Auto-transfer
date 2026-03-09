@@ -111,3 +111,7 @@ buildNumber.properties
 
 # Common working directory
 run/
+
+#VS Codeが生成するｶｽファイル
+.AddCompLib/
+.vscode/

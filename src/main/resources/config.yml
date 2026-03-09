@@ -1,0 +1,15 @@
+settings:
+  java:
+    # Java Edition プレイヤーの自動転送を有効にするか
+    enabled: false
+    # 参加から転送までの待機時間（秒）
+    delay: 2
+    # 転送先のバックエンドサーバー名（velocity.toml に定義されているサーバー名）
+    server: "lobby"
+  bedrock:
+    # Bedrock Edition プレイヤーの自動転送を有効にするか
+    enabled: true
+    # 参加から転送までの待機時間（秒）
+    delay: 2
+    # 転送先のバックエンドサーバー名（velocity.toml に定義されているサーバー名）
+    server: "lobby"
